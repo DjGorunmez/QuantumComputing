@@ -1,5 +1,5 @@
 Quantum code your applications. You can define any state where every state lives in the Quantum app.
-You can for example create ai.vision projects. Is example where it has been used.
+You can for example create ai.vision projects. A example where it has been used.
 
 #####################################################################################################
 
